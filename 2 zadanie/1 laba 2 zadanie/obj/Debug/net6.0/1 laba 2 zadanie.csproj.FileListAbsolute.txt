@@ -1,0 +1,14 @@
+C:\Users\kali(((\Desktop\lABS\1 laba 2 zadanie\1 laba 2 zadanie\bin\Debug\net6.0\1 laba 2 zadanie.exe
+C:\Users\kali(((\Desktop\lABS\1 laba 2 zadanie\1 laba 2 zadanie\bin\Debug\net6.0\1 laba 2 zadanie.deps.json
+C:\Users\kali(((\Desktop\lABS\1 laba 2 zadanie\1 laba 2 zadanie\bin\Debug\net6.0\1 laba 2 zadanie.runtimeconfig.json
+C:\Users\kali(((\Desktop\lABS\1 laba 2 zadanie\1 laba 2 zadanie\bin\Debug\net6.0\1 laba 2 zadanie.dll
+C:\Users\kali(((\Desktop\lABS\1 laba 2 zadanie\1 laba 2 zadanie\bin\Debug\net6.0\1 laba 2 zadanie.pdb
+C:\Users\kali(((\Desktop\lABS\1 laba 2 zadanie\1 laba 2 zadanie\obj\Debug\net6.0\1 laba 2 zadanie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kali(((\Desktop\lABS\1 laba 2 zadanie\1 laba 2 zadanie\obj\Debug\net6.0\1 laba 2 zadanie.AssemblyInfoInputs.cache
+C:\Users\kali(((\Desktop\lABS\1 laba 2 zadanie\1 laba 2 zadanie\obj\Debug\net6.0\1 laba 2 zadanie.AssemblyInfo.cs
+C:\Users\kali(((\Desktop\lABS\1 laba 2 zadanie\1 laba 2 zadanie\obj\Debug\net6.0\1 laba 2 zadanie.csproj.CoreCompileInputs.cache
+C:\Users\kali(((\Desktop\lABS\1 laba 2 zadanie\1 laba 2 zadanie\obj\Debug\net6.0\1 laba 2 zadanie.dll
+C:\Users\kali(((\Desktop\lABS\1 laba 2 zadanie\1 laba 2 zadanie\obj\Debug\net6.0\refint\1 laba 2 zadanie.dll
+C:\Users\kali(((\Desktop\lABS\1 laba 2 zadanie\1 laba 2 zadanie\obj\Debug\net6.0\1 laba 2 zadanie.pdb
+C:\Users\kali(((\Desktop\lABS\1 laba 2 zadanie\1 laba 2 zadanie\obj\Debug\net6.0\1 laba 2 zadanie.genruntimeconfig.cache
+C:\Users\kali(((\Desktop\lABS\1 laba 2 zadanie\1 laba 2 zadanie\obj\Debug\net6.0\ref\1 laba 2 zadanie.dll
